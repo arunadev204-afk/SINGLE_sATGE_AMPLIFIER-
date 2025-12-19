@@ -1,6 +1,6 @@
 # SINGLE_STAGE_AMPLIFIER-
-## REG NUM :
-## NAME :
+## REG NUM :25011858
+## NAME :Aruna Devi V M
 ## EXPERIMENT 4: Design a CMOS Single Stage Amplifier and findout the DC and OP analysis.
 
 ## Aim:
@@ -54,6 +54,7 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes,the DC plots automatically will be poppedup along file.
 
 ## Waveform:
+<img width="975" height="567" alt="image" src="https://github.com/user-attachments/assets/003e0ff3-875b-43db-95e7-65bec870d2d2" />
 
 
 ## RESULTS:
